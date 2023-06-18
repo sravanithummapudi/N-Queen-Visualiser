@@ -4,7 +4,8 @@ The N-Queens puzzle is about arranging N chess queens on an NXN grid so that no 
 Recursion is used to make this application.
 
 Used HTML, CSS, and JAVASCRIPT.
-![image](https://github.com/sravanithummapudi/N-Queen-Visualiser/assets/95492610/4ad7d024-19c4-43d1-889f-c425fa0ebea3)
+
+![image](https://github.com/sravanithummapudi/N-Queen-Visualiser/assets/95492610/64299d3d-7299-4361-bd38-33d64935edce)
 
 ![image](https://github.com/sravanithummapudi/N-Queen-Visualiser/assets/95492610/ef46444d-a10d-4d91-82d5-a29596b3233a)
 
